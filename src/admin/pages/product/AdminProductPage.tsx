@@ -3,8 +3,8 @@ import { toast } from 'sonner';
 
 import { useProduct } from '@/admin/hooks/useProduct';
 import { CustomFullScreenLoading } from '@/components/custom/CustomFullScreenLoading';
-import { ProductForm } from './ui/productForm';
 import type { Product } from '@/interfases/product.interface';
+import { ProductForm } from './ui/ProductForm';
 
 
 
