@@ -1,5 +1,5 @@
+import type { LucideIcon } from 'lucide-react';
 import React from 'react';
-import { DivideIcon as LucideIcon } from 'lucide-react';
 
 interface StatCardProps {
   title: string;

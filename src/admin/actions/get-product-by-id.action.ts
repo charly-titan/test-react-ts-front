@@ -1,6 +1,5 @@
 import { tesloApi } from "@/api/tesloApi";
 import type { Product } from "@/interfases/product.interface";
-import { products } from '../../mocks/products.mock';
 
 export const getProductByIdAction = async (id: string): Promise<Product> => {
 
