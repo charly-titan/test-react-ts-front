@@ -1,0 +1,11 @@
+
+export const ProductPage = () => {
+
+
+
+    return (
+        <>
+
+        </>
+    )
+}
